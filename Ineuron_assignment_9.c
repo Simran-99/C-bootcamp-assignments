@@ -1,6 +1,6 @@
 //Question 1
 
-/* #include<stdio.h>
+#include<stdio.h>
 int main(){
     int month;
     printf("Enter the month number\n");
@@ -31,11 +31,11 @@ int main(){
     default:
         break;
     }
-} */
+}
 
 //Question 2
 
-/* #include<stdio.h>
+#include<stdio.h>
 int main(){
     int n,a,b,c;
     printf("Choose from the following choices\n");
@@ -76,11 +76,11 @@ int main(){
 
         case 5: break;
     }
-} */
+}
 
 //Question 3
 
-/* #include<stdio.h>
+ #include<stdio.h>
 int main(){
     int n;
     printf("Enter the day of the week\n");
@@ -120,11 +120,11 @@ int main(){
     default:
         break;
     }
-} */
+}
 
 //Question 4
 
-/* #include<stdio.h>
+ #include<stdio.h>
 #include<math.h>
 int main(){
     int a,b,c,n;
@@ -186,11 +186,11 @@ int main(){
     default:
         break;
     }
-} */
+}
 
 //Question 5
 
-/* #include<stdio.h>
+#include<stdio.h>
 int main(){
     int n;
     printf("Enter a value\n");
@@ -213,11 +213,10 @@ int main(){
         break;
     }
 
-} */
-
+} 
 //Find whether a year is leap year or not
 
-/* #include<stdio.h>
+ #include<stdio.h>
 int main(){
     int year;
     printf("Enter the year\n");
@@ -244,9 +243,9 @@ int main(){
         break;
         
         }
-} */
+}
 
-/* #include<stdio.h>
+#include<stdio.h>
 int main(){
     float n,amount,total_amount;
     printf("Enter the amount\n");
@@ -271,10 +270,10 @@ int main(){
     }
     total_amount=amount+0.20*amount;
     printf("%f",total_amount);
-} */
+}
 
 //Question 8:
-/* #include<stdio.h>
+#include<stdio.h>
 int main(){
     int n,choice,num;
     printf("Choose from the following choices\n");
@@ -303,11 +302,11 @@ int main(){
 }
 
 
- */
+
 
 //Question 9
 
-/* #include<stdio.h>
+#include<stdio.h>
 int main(){
     int n,ch;
     printf("Enter the number\n");
@@ -321,7 +320,7 @@ int main(){
         printf("It is already an odd number");
         break;
     }
-} */
+} 
 
 //Print all the roots of an quadratic equation
 
