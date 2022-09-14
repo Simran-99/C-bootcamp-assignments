@@ -42,3 +42,18 @@ characters in a string.
 8. Write a program in C to copy one string to another string.
 9. Write a C program to sort a string array in ascending order.
 10. Write a program in C to Find the Frequency of Characters.
+
+
+C++ Baisc
+
+1. Write a C++ program to print Hello MySirG on the screen.
+2. Write a C++ program to print Hello on the first line and MySirG on the second line
+using endl.
+3. Write a C++ program to calculate the sum of two numbers.
+4. Write a C++ program to calculate the area of a circle
+5. Write a C++ program to calculate the volume of a cuboid.
+6. Write a C++ program to calculate an average of 3 numbers.
+7. Write a C++ program to calculate the square of a number
+8. Write a C++ program to swap values of two int variables without using third variable
+9. Write a C++ program to find the maximum of two numbers.
+10. Write a C++ program to add all the numbers of an array of size 10.
